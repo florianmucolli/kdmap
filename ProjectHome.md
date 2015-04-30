@@ -1,0 +1,6 @@
+**Note**
+Due to Google Code is shutting down this project has moved to
+https://github.com/cheind/kdmap
+
+## Introduction ##
+kdmap provides a k-dimensional dictionary implementation in C#. A k-dimensional dictionary or map is the natural extension of a one-dimensional map to n-dimensions. It allows fast access to n-dimensional elements and nearest neighbor queries.
